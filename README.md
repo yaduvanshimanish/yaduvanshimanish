@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me   
-🔗 Portfolio: https://your-vercel-link.vercel.app
+🔗 Portfolio: https://manish-kumar-dev.vercel.app
 
 * 🎓 B.Tech CSE @ MJPRU Bareilly (2023–2027)
 * 🤖 Focused on **AI, NLP & Multimodal Systems**
