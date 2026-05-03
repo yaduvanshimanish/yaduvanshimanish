@@ -7,7 +7,8 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me   
+🔗 Portfolio: https://your-vercel-link.vercel.app
 
 * 🎓 B.Tech CSE @ MJPRU Bareilly (2023–2027)
 * 🤖 Focused on **AI, NLP & Multimodal Systems**
